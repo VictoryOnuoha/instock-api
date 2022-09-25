@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 8080;
 
 const path = require ('path');
 //serve these files for client requests
-app.use(express.static(path.join(__dirname + './instock/public')));
+app.use(express.static(path.join(__dirname + '../instock/public')));
 
 
 app.use(express.json());
