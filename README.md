@@ -21,7 +21,7 @@ $ git clone https://github.com/ashkanbossani/m22todm1-instock-api.git
 $ git clone git@github.com:ashkanbossani/m22todm1-instock-api.git
 
 Go into the repository:
-$ cd m22todm1-instock-api
+$ cd instock-api
 
 Install dependencies:
 $ npm install
@@ -33,3 +33,7 @@ $ npm install dotenv --save
 
 Run the app:
 $ npm start
+
+##LIVE PREVIEW 
+![inventory home page ](https://user-images.githubusercontent.com/34638854/195742310-3047464a-19a9-4bd4-902b-b2e69b3abdc9.png)
+
