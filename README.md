@@ -34,6 +34,6 @@ $ npm install dotenv --save
 Run the app:
 $ npm start
 
-##LIVE PREVIEW 
+## LIVE PREVIEW 
 ![inventory home page ](https://user-images.githubusercontent.com/34638854/195742310-3047464a-19a9-4bd4-902b-b2e69b3abdc9.png)
 
